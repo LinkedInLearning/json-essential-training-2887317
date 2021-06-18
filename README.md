@@ -1,5 +1,5 @@
 # JSON Essential Training
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+This is the repository for the LinkedIn Learning course `JSON Essential Training`. The full course is available from [LinkedIn Learning][lil-course-url].
 
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
