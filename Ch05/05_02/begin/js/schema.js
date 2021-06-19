@@ -1,0 +1,1 @@
+// Schema for product data

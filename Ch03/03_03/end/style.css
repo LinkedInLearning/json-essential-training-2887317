@@ -1,0 +1,32 @@
+h1, h2 {
+  box-sizing: border-box;
+  clear: both;
+  color: rgb(192, 175, 0);
+  font-family: "Source Sans Pro", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 300;
+  line-height: 2em;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  overflow-wrap: break-word;
+  text-align: center;
+  text-rendering: optimizelegibility
+}
+h1 {
+  font-size: 41.8868px;
+  letter-spacing: -1px;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+  align-items: auto;
+  align-content: start
+}
+.item {
+  flex: 0 0;
+  margin: 10px;
+}

@@ -1,0 +1,13 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Person",
+  "name": "Nelson Mandela",
+  "url": "https://en.wikipedia.org/wiki/Nelson_Mandela",
+  "birthPlace": "Mvezo, Cape Province, Union of South Africa",
+  "hasOccupation": {
+    "@type": "Role",
+    "roleName": "President of South Africa",
+    "startDate": "1994-05-10",
+    "endDate": "1999-06-16"
+  }
+}
