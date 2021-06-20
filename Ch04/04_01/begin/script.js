@@ -3,10 +3,10 @@ const protectedData = 'while(1);[{"id":"259","name":"Raspberry Mineral Water","d
 console.log(protectedData);
 
 // add statement to clean protected data
-
+const cleanData = rawData => rawData.slice(9);
 
 // update statement to parse cleaned data
-const data = JSON.parse(protectedData);
+const data = JSON.parse(cleanData(protectedData));
 
 console.log(data);
 
