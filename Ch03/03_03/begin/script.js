@@ -2,7 +2,7 @@ const rawData = '[{"id":"259","name":"Raspberry Mineral Water","description":"An
 
 // Add statement below to parse JSON data
 // and store it as a variable called 'data'
-
+const data = JSON.parse(rawData);
 
 const container = document.querySelector('.container');
 
