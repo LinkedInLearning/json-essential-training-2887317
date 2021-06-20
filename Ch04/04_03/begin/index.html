@@ -11,6 +11,29 @@
     const numberContent = 5;
     const arrayContent = [ "asparagus", "lettuce", "kale" ];
     const dateContent = new Date();
+
+    const testData = (data) => {
+      for (prop in data) {
+        if (hasOwnProperty === true) {
+          console.log("Not an Empty Object:");
+          return data;
+        }
+      }
+      if (JSON.stringify(data) === JSON.stringify({})) {
+        console.log("Empty Object:");
+        return data;
+      } else {
+        console.log("Not an Empty Object:");
+        return data;
+      }
+      // if (Object.keys(data).length === 0 && data.constructor === Object) {
+      //   console.log("Empty Object:");
+      //   return data;
+      // } else {
+      //   console.log("Not an Empty Object:");
+      //   return data;
+      // }
+    }
   </script>
 </body>
 </html>
