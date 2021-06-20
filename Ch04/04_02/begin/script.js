@@ -7,7 +7,7 @@ console.log(data);
 
 // add statement to stringify `data` with line breaks 
 // and indents, and log the result to the console
-
+console.log(JSON.stringify(data, null, 4));
 
 const container = document.querySelector('.container');
 
