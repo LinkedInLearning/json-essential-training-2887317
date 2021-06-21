@@ -23,6 +23,13 @@ var productSchema = {
       "image": {
         "type": "string"
       }
-    }
+    },
+    "required": [
+      "id",
+      "name",
+      "description",
+      "image_title",
+      "image"
+    ]
   }
 };
