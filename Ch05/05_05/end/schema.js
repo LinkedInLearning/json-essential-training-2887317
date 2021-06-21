@@ -1,7 +1,7 @@
 // Schema for product data
 var productSchema = {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "http://hplussport.com/schemas/products.json,
+  "$id": "http://hplussport.com/schemas/products.json",
   "title": "h+ Sport Products",
   "description": "Schema for h+ Sport product data",
   "type": "array",
