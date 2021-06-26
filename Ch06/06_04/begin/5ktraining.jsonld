@@ -1,0 +1,16 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Event",
+  "name": "5k Training Run",
+  "description": "Want to run your first 5k? Join other runners and our h+ running coaches to train toward crossing that finish line. ",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "startDate": "2021-06-13T12:00",
+  "endDate": "2021-06-13T14:00",
+  "location": [
+    {
+      "@type": "Place",
+      "name": "Ramsett Park"
+    }
+  ]
+}
