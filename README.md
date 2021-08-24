@@ -1,7 +1,10 @@
 # JSON Essential Training
-This is the repository for the LinkedIn Learning course `JSON Essential Training`. The full course is available from [LinkedIn Learning][lil-course-url].
+This is the repository for the LinkedIn Learning course JSON Essential Training. The full course is available from [LinkedIn Learning][lil-course-url].
 
-_See the readme file in the main branch for updated instructions and information._
+![JSON Essential Training][lil-thumbnail-url] 
+
+JSON has become the most common format for data interchange on the web, building from a JavaScript base to a wider set of API platforms. In this course, instructor Sasha Vodnik walks you through using the basic syntax of JSON and applying it in several common implementations to see how you can structure it with schemas and JSON-LD. Sasha begins by making sure you have a thorough understanding of how to build and debug JSON structures. After stepping through how to process JSON data, he shows you a variety of ways to use it. Next, Sasha covers techniques you can use to work with JSON, such as preventing data reuse and returning readable JSON data in JavaScript. He goes over how to create and validate JSON schema and how to work with schema generators. Sasha concludes with a discussion of JSON-LD and how you can use it to explain and map the structure of your data.
+
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
 
@@ -28,8 +31,15 @@ To resolve this issue:
 3. Open the top level folder in your code editor.
 
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
+### Instructor
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+Sasha Vodnik 
+                            
+Technology Educator & Web Developer
 
+                            
+
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/sasha-vodnik).
+
+[lil-course-url]: https://www.linkedin.com/learning/json-essential-training
+[lil-thumbnail-url]: https://cdn.lynda.com/course/2887317/2887317-1629482229367-16x9.jpg
